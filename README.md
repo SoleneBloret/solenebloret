@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/solenebloret"><img src="https://img.shields.io/badge/LinkedIn-solenebloret-F59AC6?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:solene.bloret@hotmail.fr"><img src="https://img.shields.io/badge/Email-solene.bloret%40hotmail.fr-9FA8DA?style=for-the-badge" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Disponible-imm%C3%A9diatement-7FCFA8?style=for-the-badge" alt="Disponible immédiatement" />
 </p>
 
 ## 👋 Bonjour, moi c'est Solène !
