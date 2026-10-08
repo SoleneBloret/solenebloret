@@ -75,8 +75,8 @@ Et côté IA : intégration d'API LLM (Claude API) dans des applications Rails.
 ## 📊 Activité GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&hide_border=true&bg_color=FFFCF7&title_color=F59AC6&text_color=5B5670&icon_color=9FA8DA" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&hide_border=true&bg_color=FFFCF7&title_color=F59AC6&text_color=5B5670" alt="Langages les plus utilisés" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=solenebloret&show_icons=true&hide_border=true&bg_color=FFFCF7&title_color=F59AC6&text_color=5B5670&icon_color=9FA8DA" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solenebloret&layout=compact&hide_border=true&bg_color=FFFCF7&title_color=F59AC6&text_color=5B5670" alt="Langages les plus utilisés" />
 </p>
 
 ---
