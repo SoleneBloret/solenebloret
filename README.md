@@ -17,7 +17,7 @@ During 9 years in startups, I worked at the crossroads of Product and Tech: surf
 - 🔍 I'm looking for a **Full Stack Developer** or **Front-end Developer** role in Nantes
 - 💎 I used to **Ruby** and the **Ruby on Rails** stack
 - 🌱 BUT I'm also currently learning **React** and **TypeScript** for a project and eager to learn new languages
-- 🤝 Volunteer at **Data for Good** and **Les Blouses Roses**
+- 🤝 Volunteer at **[Data for Good](https://dataforgood.fr/)** and **[Les Blouses Roses](https://www.lesblousesroses.asso.fr/fr/)**
 
 ## 🛠️ Stack
 
